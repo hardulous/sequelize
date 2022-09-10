@@ -1,0 +1,5 @@
+
+Sequelize is a nodeJS orm (object relational mappers) it is used so we dont have to write raw queries when working with nodeJS and mysql , so we can do model creating and query data effectively which will help us acheive MVC pattern , install by npm i sequelize
+
+Mysql2 is a package to connect with mysql database , install by npm i mysql2
+
